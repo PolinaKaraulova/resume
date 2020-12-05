@@ -1,0 +1,120 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.navbar-collapse {
+
+
+    left: 0;
+    top: 50px;
+    width: 100%;
+    background-color: #d1cdda;
+
+    text-align: center !important;
+}
+
+.navbar-toggler {
+    background-color: #d1cdda;
+    border-color: #d1cdda;
+
+    right: 0;
+}
+
+.navbar {
+    background-color: #d1cdda;
+
+}
+
+.navbar-light .navbar-brand {
+    color: #7D768C;
+    position: static;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    border-color: #d1cdda;
+    color: #7D768C;
+}
+
+.avatar {
+    padding: 3px;
+    background: #d1cdda;
+    border: 2px solid #7D768C;
+    padding-left: 3%;
+}
+
+#about {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.title__name {
+    font-size: 40px;
+    text-align: center;
+}
+
+.title__text {
+    font-size: 40px;
+    border-color: #C0B6D9;
+}
+
+.title__info {
+    border-color: #C0B6D9;
+    font-size: 40px;
+}
+
+.exp {
+    text-align: center;
+    background: #C0B6D9;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.edu {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.contacts {
+    text-align: center;
+    padding-top: 17%;
+    padding-bottom: 17%;
+}
+
+.icon {
+    height: 256px;
+    width: 256px;
+}
+
+.skills {
+    text-align: center;
+    background: #C0B6D9;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: #C0B6D9;
+}
+
+a:active {
+
+    text-decoration: none;
+    color: #C0B6D9;
+}
+
+a:visited {
+
+    text-decoration: none;
+    color: #C0B6D9;
+}
