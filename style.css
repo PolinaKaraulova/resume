@@ -11,38 +11,7 @@ h5 {
     font-size: 40px;
 }
 
-.navbar-collapse {
 
-
-    left: 0;
-    top: 50px;
-    width: 100%;
-    background-color: #d1cdda;
-
-    text-align: center !important;
-}
-
-.navbar-toggler {
-    background-color: #d1cdda;
-    border-color: #d1cdda;
-
-    right: 0;
-}
-
-.navbar {
-    background-color: #d1cdda;
-
-}
-
-.navbar-light .navbar-brand {
-    color: #7D768C;
-    position: static;
-}
-
-.navbar-light .navbar-nav .nav-link.active {
-    border-color: #d1cdda;
-    color: #7D768C;
-}
 
 .avatar {
     padding: 3px;
